@@ -1,12 +1,26 @@
 /*
 Theme Name: Doctor's Clinic
-Theme URI: https://example.com
-Author: Sazid Saleem
-Author URI: https://example.com
-Description: Professional medical clinic theme
+Theme URI: https://github.com/Sazid-reich/doctors-clinic-theme
+Author: Sazid Reich
+Author URI: https://github.com/Sazid-reich
+Description: A professional WordPress theme designed specifically for medical clinics, doctor's offices, and healthcare facilities. Features clean medical design, responsive layout, appointment-ready sections, and easy customization options.
 Version: 1.0.0
+Requires at least: 5.8
+Tested up to: 6.5
+Requires PHP: 7.4
 License: GPL v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: doctors-clinic
+Tags: medical, health, clinic, doctor, healthcare, responsive, accessibility-ready, translation-ready, custom-menu, custom-logo, featured-images, threaded-comments
 */
 
-/* Main styles are in /assets/css/main.css */
+/* ============================================
+   DOCTOR'S CLINIC THEME - STYLESHEET
+   Main styles are in /assets/css/main.css
+   ============================================ */
+
+/*
+This file is intentionally minimal.
+All CSS rules are located in /assets/css/main.css
+for better organization and maintainability.
+*/
